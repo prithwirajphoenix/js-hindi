@@ -3,7 +3,7 @@
 // alert(3+3) we are using node.js and not browser
  console.log(3+3)
 
-let name = "Ahmed"
+let name = "Jogobondhu"
 let age = 30
 let isLoggedIn = true
 
